@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitmankotia13
-- 👀 I’m interested in programming using GIS Enterprise Server
+- 👀 I’m interested in programming in GIS Enterprise Server
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rohitmankotia31@gmail.com
